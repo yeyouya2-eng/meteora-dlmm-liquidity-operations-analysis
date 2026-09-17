@@ -31,13 +31,15 @@ An independent Web3 business-intelligence portfolio project analysing Solana liq
 
 TVL and 24-hour volume position each pool by liquidity capacity and trading demand. Colour segments indicate operating-review priorities rather than return recommendations.
 
-![Pool efficiency scatter plot](assets/pool-efficiency-scatter.png)
+<img width="1956" height="1191" alt="pool-efficiency-scatter" src="https://github.com/user-attachments/assets/54743521-35b4-4da6-b29b-8b54c8127a5b" />
+
 
 ### Protocol Activity Trend
 
 Daily protocol volume is shown with a 7-day moving average to make demand volatility visible without over-interpreting individual spikes.
 
-![Protocol activity trend](assets/protocol-volume-trend.png)
+![Uploading protocol-volume-trend.png…]()
+
 
 ## Methodology
 
