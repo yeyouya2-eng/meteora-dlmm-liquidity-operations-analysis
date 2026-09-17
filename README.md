@@ -38,7 +38,8 @@ TVL and 24-hour volume position each pool by liquidity capacity and trading dema
 
 Daily protocol volume is shown with a 7-day moving average to make demand volatility visible without over-interpreting individual spikes.
 
-![Uploading protocol-volume-trend.png…]()
+<img width="2118" height="1197" alt="protocol-volume-trend" src="https://github.com/user-attachments/assets/c1fd6871-5683-40b0-a8df-5f84d90e2592" />
+
 
 
 ## Methodology
